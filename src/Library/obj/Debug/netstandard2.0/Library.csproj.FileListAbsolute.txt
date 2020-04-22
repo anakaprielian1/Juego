@@ -1,0 +1,8 @@
+/Users/anakaprielian/Documents/UCU/2020/ProgramacionII/8_juego/src/Library/bin/Debug/netstandard2.0/Library.deps.json
+/Users/anakaprielian/Documents/UCU/2020/ProgramacionII/8_juego/src/Library/bin/Debug/netstandard2.0/Library.dll
+/Users/anakaprielian/Documents/UCU/2020/ProgramacionII/8_juego/src/Library/bin/Debug/netstandard2.0/Library.pdb
+/Users/anakaprielian/Documents/UCU/2020/ProgramacionII/8_juego/src/Library/obj/Debug/netstandard2.0/Library.csprojAssemblyReference.cache
+/Users/anakaprielian/Documents/UCU/2020/ProgramacionII/8_juego/src/Library/obj/Debug/netstandard2.0/Library.AssemblyInfoInputs.cache
+/Users/anakaprielian/Documents/UCU/2020/ProgramacionII/8_juego/src/Library/obj/Debug/netstandard2.0/Library.AssemblyInfo.cs
+/Users/anakaprielian/Documents/UCU/2020/ProgramacionII/8_juego/src/Library/obj/Debug/netstandard2.0/Library.dll
+/Users/anakaprielian/Documents/UCU/2020/ProgramacionII/8_juego/src/Library/obj/Debug/netstandard2.0/Library.pdb
