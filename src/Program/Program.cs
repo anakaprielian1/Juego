@@ -13,6 +13,8 @@ namespace Program
             Personajes Legolas = new Personajes("elfo", "legolas");
             Personajes Gimli = new Personajes("enano", "gimpli");
             Personajes Frodo = new Personajes("hobbit", "frodo");
+            Mago Gandalf = new Mago("gandalf");
+            Mago Saruman = new Mago("saruman");
 
             ElementosAtaque Martillo = new ElementosAtaque("martillo", 1, 10);
             ElementosAtaque ArcoFlecha = new ElementosAtaque("arco y flecha", 2, 20);
@@ -22,6 +24,13 @@ namespace Program
 
             ElementosVarios Tunica = new ElementosVarios("tunica blanca", 5);
             ElementosVarios Anillo = new ElementosVarios("anillo", 10);
+
+            ElementoMagico BastonMagico = new ElementoMagico("baston magico", 3, 30);
+
+            LibroHechiozos Ponzonia = new LibroHechiozos("ponzoña", 10);
+            LibroHechiozos Debilitar = new LibroHechiozos("debilitar", 10);
+            LibroHechiozos Aturdir = new LibroHechiozos("aturdir", 10);
+
 
             //juego
 
@@ -39,7 +48,11 @@ namespace Program
 
             Console.WriteLine(Gimli.Vidas); // vuelve a tener 5 porque lo curaron
             Console.WriteLine(Frodo.Vidas); // ahora tiene 7, ya que sumo 2 por curar al enano
-            
+
+            Gandalf.Atacar(Legolas, BastonMagico, Ponzonia);
+
+            Console.WriteLine(Legolas.Vidas); 
+
 
 
 

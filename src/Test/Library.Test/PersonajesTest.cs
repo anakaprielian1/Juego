@@ -2,7 +2,7 @@ using NUnit.Framework;
 
 namespace Library.Test
 {
-    public class Tests
+    public class TestsPersonajes
     {
         private Personajes Elfo1;
         private Personajes Personaje1;
